@@ -4,30 +4,26 @@ Please refer to the Jupyter notebook for more details.
 
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
-**Summary of Assignment Requirements:**
 
-The regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
+## **Summary of Assignment Requirements:**
+**Datasets:** 
+Applying classification techniques (Machine Learning) to solve a typical supervised machine learning problem - Machine status. This involves data preprocessing, training machine learning models, evaluating their performance, and presenting results clearly through code comments and visualizations.
 
-**Project Description:**
-
-This regression task focuses on predicting a continuous target variable using features from a given dataset. Students explored linear regression and advanced models like decision tree regression, random forest, and gradient boosting. The project emphasizes understanding residuals, model fit, and performance metrics like RMSE, MAE, and R².
 
 **Machine Learning Workflow:**
+1. Data Preprocessing: Cleaning and encoding categorical variables, handling missing values, and feature scaling.
 
-1. Data Preprocessing: Feature selection, normalization, and handling of missing values.
+2. Model Development: Training multiple classification models using Scikit-learn.
 
-2. Model Training: Building multiple regression models using Scikit-learn.
+3. Model Evaluation: Comparing model performance using confusion matrices and classification reports.
 
-3. Model Evaluation: Assessing models using error metrics and visual inspection of residuals.
+4. Hyperparameter Tuning: Optimizing model performance through techniques like grid search or cross-validation.
 
-4. Insights and Interpretation: Drawing conclusions from model results to understand predictive patterns.
-
-**PowerPoint Presentation:**
-Slides summarize the methodology, key visualizations, model comparisons, and overall insights gained from the regression analysis.
+## **PowerPoint Presentation:**
+Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained. Students are required to present their findings to the lecturer.
 
 **Outcome** 
 
-Generated a model that has a 
 
 1. **AUC (Area Under Curve): 0.994 (3.d.p)**
 
