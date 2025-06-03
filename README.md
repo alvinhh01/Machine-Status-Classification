@@ -1,6 +1,7 @@
 # Machine-Status-Classification
 
 Please refer to the Jupyter notebook for more details.
+
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
 **Summary of Assignment Requirements:**
