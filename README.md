@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classific
 
 ## **Summary of Assignment Requirements:**
 **Datasets:** 
-Applying classification techniques (Machine Learning) to solve a typical supervised machine learning problem - Machine status. This involves data preprocessing, training machine learning models, evaluating their performance, and presenting results clearly through code comments and visualizations.
+Applying classification techniques to solve a typical supervised machine learning problem - Machine status. This involves data preprocessing, training machine learning models, evaluating their performance, and presenting results clearly through code comments and visualizations.
 
 
 **Machine Learning Workflow:**
