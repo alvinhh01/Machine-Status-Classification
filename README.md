@@ -5,9 +5,11 @@ Please refer to the Jupyter notebook for more details.
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
 **Summary of Assignment Requirements:**
-The regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
+
+he regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
 
 **Project Description:**
+
 This regression task focuses on predicting a continuous target variable using features from a given dataset. Students explored linear regression and advanced models like decision tree regression, random forest, and gradient boosting. The project emphasizes understanding residuals, model fit, and performance metrics like RMSE, MAE, and R².
 
 **Machine Learning Workflow:**
