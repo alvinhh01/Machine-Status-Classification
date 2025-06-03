@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classific
 
 **Summary of Assignment Requirements:**
 
-he regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
+The regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
 
 **Project Description:**
 
